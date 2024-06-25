@@ -1,4 +1,4 @@
 # First-Repo
 This is my first git repo.
 <br>
-Author - Yash Ladda( on the go )
+Author - Yash Ladda (VIIT Pune)
